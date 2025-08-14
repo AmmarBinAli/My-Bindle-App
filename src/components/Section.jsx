@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import iphone14 from "../assets/iPhone14pro.png";
+import iphone14 from "../assets/iPhone14Pro.png";
 import iphone14pro from "../assets/iPhone14.png";
 
 export default function DonationSection() {
