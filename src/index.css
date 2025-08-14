@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'ITC Avant Garde Gothic Std';
+  src: url('/src/fonts/ITCAvantGardeGothicStd.woff2') format('woff2'),
+       url('/src/fonts/ITCAvantGardeGothicStd.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
