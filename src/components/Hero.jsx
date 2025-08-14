@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
-import logo from "../assests/logo.png";
-import mobileImg from "../assests/Group 1.png";
+import logo from "../assets/logo.png";
+import mobileImg from "../assets/Group 1.png";
 
 export default function Hero() {
   const [showSplash, setShowSplash] = useState(true);

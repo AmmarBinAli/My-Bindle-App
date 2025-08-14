@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
 
-import avatar0 from "../assests/Avatar.png";
-import avatar1 from "../assests/Avatar1.png";
-import avatar2 from "../assests/Avatar2.png";
-import avatar3 from "../assests/Avatar3.png";
-import avatar4 from "../assests/Avatar4.png";
-import avatar5 from "../assests/Avatar5.png";
+import avatar0 from "../assets/Avatar.png";
+import avatar1 from "../assets/Avatar1.png";
+import avatar2 from "../assets/Avatar2.png";
+import avatar3 from "../assets/Avatar3.png";
+import avatar4 from "../assets/Avatar4.png";
+import avatar5 from "../assets/Avatar5.png";
 
 const testimonials = [
   { stars: 5, text: "This platform changed the way I stay in touch with my friends and family. The interface is smooth, and I love how easy it is to share my moments!", name: "Emily R", country: "USA", avatar: avatar0 },

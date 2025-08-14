@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
-import bodyImg from "../assests/Body.png";
-import bodyImg1 from "../assests/Body1.png";
-import install from "../assests/install.png";
+import bodyImg from "../assets/Body.png";
+import bodyImg1 from "../assets/Body1.png";
+import install from "../assets/install.png";
 
 export default function FooterSection() {
   return (

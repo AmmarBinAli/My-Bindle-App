@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
-import MobileLeft from "../assests/Group 3.png"
-import MobileRight from "../assests/Group 2.png"
+import MobileLeft from "../assets/Group 3.png"
+import MobileRight from "../assets/Group 2.png"
 
 export default function About() {
   return (
